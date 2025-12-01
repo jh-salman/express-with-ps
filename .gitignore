@@ -1,3 +1,2 @@
-    NODE_MODULES/
-     dist/
-     .env
+node_modules
+.env
